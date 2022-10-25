@@ -1,6 +1,4 @@
-﻿name: 簡単な例
-
-on:
+﻿on:
   push:
     branches:
       - main
